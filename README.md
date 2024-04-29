@@ -1,1 +1,3 @@
 # Securing-BuyforSure-s-New-Jewelry-Brand-Launch-with-Azure
+
+The project scenario is this: BuyforSure, a multinational retailer, is launching a new jewelry brand and wants to safeguard the pre-release marketing materials, especially design images, from leaks. I, as the lead security engineer, are tasked with leveraging the existing Azure security features (Azure AD, Multi-Factor Authentication, Azure Storage, Key Vault, and Defender for Cloud) to achieve this goal.  The objective is to grant access only to the authorized sales team (3 new employees) while keeping the design image secure from unauthorized access and potential competitors.
